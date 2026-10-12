@@ -1,17 +1,34 @@
-# eco_track
+EcoTrack 🌱
 
-A new Flutter project.
+EcoTrack adalah aplikasi berbasis Flutter yang mengajak pengguna meningkatkan kepedulian terhadap lingkungan melalui pemantauan statistik dan interaksi sederhana.
 
-## Getting Started
+Tujuan
 
-This project is a starting point for a Flutter application.
+EcoTrack dikembangkan sebagai proyek pembelajaran untuk menerapkan pengembangan aplikasi Flutter, interaksi gesture, dan pengelolaan kode menggunakan Git dan GitHub.
 
-A few resources to get you started if this is your first Flutter project:
+Fitur Utama
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Eco Score: Menampilkan skor kepedulian lingkungan pengguna.
+- Statistik Lingkungan: Menampilkan data pohon, energi, dan air.
+- Tap Interaction: Menekan kartu untuk berinteraksi dan meningkatkan skor.
+- Long Press Interaction: Menekan lama kartu untuk menambah jumlah pohon.
+- Drag Interaction: Menggeser kartu tantangan menggunakan gesture drag.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Teknologi
+
+- Flutter
+- Dart
+- Visual Studio Code
+- Git dan GitHub
+
+Cara Menjalankan Aplikasi
+
+1. Pastikan Flutter sudah terpasang.
+
+2. Clone repositori EcoTrack.
+
+3. Buka folder proyek di Visual Studio Code.
+
+4. Jalankan perintah berikut di terminal: 
+
+flutter run
